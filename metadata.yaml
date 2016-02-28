@@ -1,0 +1,27 @@
+_repo: The-Weavers-a-tale-of-England-and-Egypt-of-fifty-years-ago-Volume-5_6265
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Gilbert, Sir, bart.
+    - Parker, Horatio Gilbert
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Society of Friends -- Fiction'
+- !lcc 'PS'
+title: 'The Weavers: a tale of England and Egypt of fifty years ago - Volume 5'
+url: http://www.gutenberg.org/ebooks/6265
